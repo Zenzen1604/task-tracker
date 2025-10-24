@@ -1,0 +1,8 @@
+git init
+echo "# To-Do List App" > README.md
+mkdir todo_app
+cd todo_app
+echo "" > todo.py
+echo "" > tasks.txt
+git add .
+git commit -m "init: setup project structure"
